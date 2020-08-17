@@ -17,7 +17,10 @@ The main techniques used regarding discovery based data mining are Cluster analy
 ## Conclusion
 
 The consumer behaviour in the telecom industry was studied. The various results regarding this study are:
-•	By the associate rule mining done on each cluster, we have obtained the result that the customer satisfaction is most for the service provider Idea followed by Airtel and Vodafone. 
-•	A predictive model was built using decision tree algorithm to predict the customer satisfaction and it was predicted that 70% of the population who have given a rating of more than 2.5 for network accessibility, customer service and tariffs are likely to be satisfied with the service provider. Similar predictions were made based on different combinations of variables however, the customer satisfaction in all these cases were less than 10%.
-•	The different trends that explain the customer behaviour were found out using descriptive statistics.
-•	The average ratings of various parameters like network accessibility, tariffs, billing/recharge services, package offers, and customer satisfaction were found out against the different service providers were found out.
+* By the associate rule mining done on each cluster, we have obtained the result that the customer satisfaction is most for the service provider Idea followed by Airtel and Vodafone.
+
+*	A predictive model was built using decision tree algorithm to predict the customer satisfaction and it was predicted that 70% of the population who have given a rating of more than 2.5 for network accessibility, customer service and tariffs are likely to be satisfied with the service provider. Similar predictions were made based on different combinations of variables however, the customer satisfaction in all these cases were less than 10%.
+
+*	The different trends that explain the customer behaviour were found out using descriptive statistics.
+
+*	The average ratings of various parameters like network accessibility, tariffs, billing/recharge services, package offers, and customer satisfaction were found out against the different service providers were found out.
